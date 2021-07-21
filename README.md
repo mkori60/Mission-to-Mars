@@ -2,6 +2,8 @@
 
 The purpose of this assignment was to create a website able to scrape data related to Mars in order to impress NASA. This project used Python, Flask, HTML, CSS, Boostrap, MongoDB, Beautiful Soup, and Splinter. 
 
+![Screen Shot 2021-07-20 at 9 09 58 PM](https://user-images.githubusercontent.com/83051034/126424691-a29fc908-01c5-4b28-afff-ee9c850b69b6.png)
+
 ## Deliverable 1 
 
 For the first deliverable, I added code that scraped data from a website in order to add full-resolution images of Mars hemispheres and the titles of those images to the website. 
